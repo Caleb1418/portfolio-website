@@ -314,7 +314,7 @@ nav ul li a:hover{
     margin-left: 30px;
 }
 .send{
-    background: linear-gradient(#FFDE59 , #ddb100);
+    background-color: #FFDE59 ;
     font-size: 19px !important;
     font-weight: 600;
     cursor: pointer;
@@ -324,7 +324,7 @@ nav ul li a:hover{
 footer{
     justify-content: space-between;
     padding: 10px 70px;
-    background: linear-gradient(#FFDE59 , #ddb100);
+    background-color: #FFDE59 ;
     font-size: 20px;
     font-weight: 600;
     color: black;
